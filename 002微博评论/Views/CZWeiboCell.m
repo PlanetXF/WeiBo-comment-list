@@ -85,7 +85,7 @@
 //设置frame的方法
 - (void)settingFrame
 {
-    //统一间距
+    //统一间距 
     CGFloat margin = 10;
     
     //1.头像
